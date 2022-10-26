@@ -1,3 +1,3 @@
 # TestFramework
 
-Software require - Selenium, junit, cucumber, maven
+Software require - Selenium, junit, cucumber, maven, chrome, JDK, (all latest version)
